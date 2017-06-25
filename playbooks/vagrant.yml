@@ -14,5 +14,6 @@
     - mysql
     - php
     - php-devtools
+    - php-xdebug
     - php-fpm
     - thirty-bees
